@@ -11,7 +11,12 @@
 
 ## Accessing Data
 
-The raw data for this project is either drawn from online sources (e.g. sequence archives), simulated from fasta genomes.
+The raw data for this project is either drawn from online sources (e.g. sequence archives), simulated from fasta genomes. 
+
+Data, including processed data, and large FlexTyper query files, can be found on Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4386962.svg)](https://doi.org/10.5281/zenodo.4386962)
+
 
 ### Human WGS
 Human WGS samples used in this work can be downloaded here:
